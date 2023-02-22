@@ -1,0 +1,15 @@
+[{
+"name": "小雅vps",
+"server": "http://140.83.57.137:5678/",
+"startPage": "/",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "admin"
+},
+"/abc/abc": {
+"password": "admin"
+}
+}
+}]
